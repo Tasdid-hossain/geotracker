@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment5Task2</string>
+    <string name="title">Tracking App!</string>
+    <string name="subtitle">Enter tracking interval</string>
+</resources>
